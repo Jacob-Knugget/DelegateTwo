@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\DelegateTwo\bin\Debug\net6.0\DelegateTwo.exe
+C:\Users\jacob\source\repos\DelegateTwo\bin\Debug\net6.0\DelegateTwo.deps.json
+C:\Users\jacob\source\repos\DelegateTwo\bin\Debug\net6.0\DelegateTwo.runtimeconfig.json
+C:\Users\jacob\source\repos\DelegateTwo\bin\Debug\net6.0\DelegateTwo.dll
+C:\Users\jacob\source\repos\DelegateTwo\bin\Debug\net6.0\DelegateTwo.pdb
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\DelegateTwo.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\DelegateTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\DelegateTwo.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\DelegateTwo.AssemblyInfo.cs
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\DelegateTwo.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\DelegateTwo.dll
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\refint\DelegateTwo.dll
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\DelegateTwo.pdb
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\DelegateTwo.genruntimeconfig.cache
+C:\Users\jacob\source\repos\DelegateTwo\obj\Debug\net6.0\ref\DelegateTwo.dll
